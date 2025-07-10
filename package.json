@@ -1,0 +1,14 @@
+{
+  "name": "topup-checker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.x",
+    "axios": "^0.x",
+    "body-parser": "^1.x",
+    "uuid": "^8.x"
+  }
+}
